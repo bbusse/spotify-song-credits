@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-# webdriver-util
+# spotify-song-credits
 #
 # Copyright (c) 2020 Björn Busse <bj.rn@baerlin.eu>
 #
@@ -11,7 +11,6 @@ import json
 import os
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 import sys
 import time
