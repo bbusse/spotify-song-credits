@@ -4,6 +4,9 @@ since those are unfortunately not yet available via API
 https://community.spotify.com/t5/Spotify-for-Developers/Getting-credits-on-a-track/td-p/4950934  
 https://github.com/spotify/web-api/issues/779
 
+## Dependencies
+[webdriver-util](https://github.com/bbusse/webdriver-util)
+
 ## Usage
 ```
 ./spotify-song-credits.py --help
