@@ -56,11 +56,13 @@ $ LOGIN_USER="foo" \
 LOGIN_PW="foobarbaz=" \
 URL="https://accounts.spotify.com/en/login" \
 URL_PAYLOAD="https://open.spotify.com/track/7kU5no0i1TK71zPI3IBUND" \
-./spotify-song-credits.py```
+BROWSER_DRM=1 \
+./spotify-song-credits.py
 ```
 
 ## Environment Variables
 - TARGET - The target
+- BROWSER_DRM - Enable Browser DRM (needed)
 - URL - The spotify URL (https://accounts.spotify.com/en/login)
 - URL_PAYLOAD - The URL to open after successful login (optional)
 - LOGIN_USER - The user to use for logging in
