@@ -1,0 +1,3 @@
+configargparse >= 1.2.3
+selenium >= 3.141.0
+git+https://github.com/bbusse/webdriver-util#egg=webdriver_util
