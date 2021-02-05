@@ -1,5 +1,5 @@
 # spotify-song-credits
-Webdriver Python code to scrape song credits from web player  
+Webdriver Python code to scrape song credits from the Spotify web player  
 since those are unfortunately not yet available via API  
 https://community.spotify.com/t5/Spotify-for-Developers/Getting-credits-on-a-track/td-p/4950934  
 https://github.com/spotify/web-api/issues/779
